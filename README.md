@@ -6,7 +6,7 @@
 ## Skills
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,js,laravel,react,tailwind,nodejs,nextjs,angular,postgre,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,js,laravel,react,tailwind,nodejs,nextjs,angular,postgres,prisma)](https://skillicons.dev)
 
 ### Design
 [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
