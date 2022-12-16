@@ -14,7 +14,7 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,github,gitlab)](https://skillicons.dev)
 
-### Project
+### Projects
 
 [https://aclagencement.com/](https://aclagencement.com/)
 
