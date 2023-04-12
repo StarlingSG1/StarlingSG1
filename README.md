@@ -6,17 +6,17 @@
 ## Skills
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,js,laravel,react,tailwind,nodejs,nextjs,angular,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,postgres,prisma,angular,php,laravel)](https://skillicons.dev)
 
 ### Design
 [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,github,gitlab,nginx)](https://skillicons.dev)
 
 ### Projects
 
-[https://comptheures.fr/](https://comptheures.fr/)
+[https://comptheures.fr.com/](https://comptheures.fr/)
 
 [https://aclagencement.com/](https://aclagencement.com/)
 
