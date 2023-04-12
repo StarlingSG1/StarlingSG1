@@ -16,7 +16,7 @@
 
 ### Projects
 
-[https://comptheures.fr.com/](https://comptheures.fr/)
+[https://comptheures.fr/](https://comptheures.fr/)
 
 [https://aclagencement.com/](https://aclagencement.com/)
 
