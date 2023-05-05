@@ -16,20 +16,20 @@
 
 ### Projects
 
-Landing Page pour le projet Comptheures, un app de gestion des horaires.
+Landing Page pour le projet Comptheures, un app de gestion des horaires.  
 [https://comptheures.fr/](https://comptheures.fr/)
 
-App Comptheures, site de demo 
+App Comptheures, site de demo.  
 [https://dev.comptheures.fr/](https://dev.comptheures.fr/)
 
-Un site vitrine réalisé sous wordpress pour une entreprise de travaux.
+Un site vitrine réalisé sous wordpress pour une entreprise de travaux.  
 [https://aclagencement.com/](https://aclagencement.com/)
 
-Un site autour de l'univers League Of Legends en utilisant leur API
+Un site autour de l'univers League Of Legends en utilisant leur API.  
 [https://masteries.biscottefamily.fr/](https://masteries.biscottefamily.fr/)
 
-Une boutique en ligne pour le Club de BMX de Verrière le Buisson (en cours)
+Une boutique en ligne pour le Club de BMX de Verrière le Buisson (en cours).  
 [https://boutique.vb-bmx-club.fr/](https://boutique.vb-bmx-club.fr/)
 
-Pour ne pas oublier tous les nouveaux mots de vocabulaire que l'on apprend dans d'autres langues
+Pour ne pas oublier tous les nouveaux mots de vocabulaire que l'on apprend dans d'autres langues.  
 [https://penses-betes.pages.dev/](https://penses-betes.pages.dev/)
