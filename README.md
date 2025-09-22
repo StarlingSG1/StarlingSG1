@@ -15,12 +15,12 @@
 
 ### Projects
 
-Mon portefolio   
+Mon portefolio.  
 [https://jeremiebarriere.fr/](https://jeremiebarriere.fr/)
 
 Demo d'une boutique en ligne pour le Club de BMX de Verrière le Buisson.  
 [https://shop-vb-bmx.pages.dev/](https://shop-vb-bmx.pages.dev/)
 
-Site vitrine d'H2Robotics - Distributeur de robots de nettoyage et service
+Site vitrine d'H2Robotics - Distributeur de robots de nettoyage et service.   
 [https://h2robotics.fr](https://h2robotics.fr)
 
