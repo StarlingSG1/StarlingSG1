@@ -5,7 +5,7 @@
 ## Skills
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgres,prisma)](https://skillicons.dev)
 
 ### Design
 [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
@@ -21,8 +21,6 @@ Mon portefolio
 Demo d'une boutique en ligne pour le Club de BMX de Verrière le Buisson.  
 [https://shop-vb-bmx.pages.dev/](https://shop-vb-bmx.pages.dev/)
 
-Un site autour de l'univers League Of Legends en utilisant leur API.    
-[https://masteries.biscottefamily.fr/](https://masteries.biscottefamily.fr/)
+Site vitrine d'H2Robotics - Distributeur de robots de nettoyage et service
+[https://h2robotics.fr](https://h2robotics.fr)
 
-Landing Page pour le projet Comptheures, un app de gestion des horaires.  
-[https://comptheures.fr/](https://comptheures.fr/)
